@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation (Hacker Style)
 
 on:
   schedule:
@@ -15,11 +15,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake (Rainbow)
+      - name: Generate Hacker Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sajidexpertise
           outputs: dist/github-contribution-grid-snake.svg
+          snake_color: "#00FF00"         # Neon green
+          background_color: "#000000"    # Black background
+          grid_color: "#00FF00"          # Matrix grid
+          dot_color: "#39FF14"           # Bright green dots
+          snake_speed: 8                 # Faster movement
+          snake_size: 8                  # Bigger snake segments
 
       - name: Prepare output branch
         run: |
@@ -41,5 +47,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add github-contribution-grid-snake.svg
-          git commit -m "Generate Rainbow Snake" || echo "No changes to commit"
+          git commit -m "Generate Hacker Snake" || echo "No changes to commit"
           git push --force origin output
