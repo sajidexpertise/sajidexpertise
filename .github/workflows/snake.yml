@@ -1,40 +1,34 @@
-name: Generate Snake Game Animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily midnight UTC
+    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-    - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Generate Snake (Rainbow)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sajidexpertise
+          outputs: dist/github-contribution-grid-snake.svg
 
-    - name: Install github-contribution-grid-snake CLI
-      run: npm install -g github-contribution-grid-snake
-
-    - name: Verify installation
-      run: |
-        snake --version || echo "Snake CLI not installed properly"
-
-    - name: Generate snake animation SVG
-      run: |
-        snake --username=sajidexpertise --output=output/snake.svg
-
-    - name: Check if output file created
-      run: |
-        if [ -f output/snake.svg ]; then echo "SVG generated successfully"; else echo "SVG not found"; exit 1; fi
-
-    - name: Commit and push snake animation
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add output/snake.svg
-        git diff --cached --quiet || (git commit -m "Update snake animation [skip ci]" && git push)
+      - name: Push Snake to Output Branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git fetch origin
+          git checkout output || git checkout --orphan output
+          git reset
+          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generate Rainbow Snake"
+          git push --force origin output
