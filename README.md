@@ -37,6 +37,14 @@
 
 ---
 
+## 🛠 Skills
+<p align="center">
+  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd> 
+  <kbd>Shopify</kbd> <kbd>WordPress</kbd> <kbd>Docker</kbd> <kbd>Postman</kbd> <kbd>Power BI</kbd> <kbd>Excel</kbd> <kbd>Data Visualization</kbd> <kbd>Git & GitHub</kbd>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sajidexpertise&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=8" width="900" alt="GitHub Trophies" />
@@ -59,17 +67,6 @@
 
 
 ---
-
-## 🛠 Skills
-<p align="center">
-  <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd>
-</p>
-<p align="center">
-  <kbd>Shopify</kbd> <kbd>WordPress</kbd> <kbd>Docker</kbd> <kbd>Postman</kbd> <kbd>Power BI</kbd> <kbd>Excel</kbd> <kbd>Data Visualization</kbd> <kbd>Git & GitHub</kbd>
-</p>
-
----
-
 
 # 📊 GitHub Stats:
 <p align="center">
