@@ -39,7 +39,7 @@
 ## 🎓 Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="100" /></a>
-  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="100" /></a>
+  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="100" /></a>
   <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="100" /></a>
   <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="100" /></a>
   <a href="https://www.credly.com/badges/be8fd633-e7fb-4432-af98-02f3ecf559a3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="100" /></a>
