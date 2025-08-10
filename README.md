@@ -90,9 +90,8 @@
 ---
 
 ### 🕹️ Snake Game
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Snake Game" width="400" />
+  <img src="https://raw.githubusercontent.com/sajidexpertise/sajidexpertise/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
