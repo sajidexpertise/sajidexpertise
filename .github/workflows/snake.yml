@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake (Rainbow)
         uses: Platane/snk@v3
@@ -21,14 +21,22 @@ jobs:
           github_user_name: sajidexpertise
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Ensure dist exists
+        run: |
+          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+            echo "Error: Snake SVG was not generated!"
+            exit 1
+          fi
+
       - name: Push Snake to Output Branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git fetch origin
+          # Create output branch if it doesn't exist
           git checkout output || git checkout --orphan output
-          git reset
+          git reset --hard
           mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Generate Rainbow Snake"
+          git commit -m "Generate Rainbow Snake" || echo "No changes to commit"
           git push --force origin output
