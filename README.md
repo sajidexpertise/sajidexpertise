@@ -15,10 +15,10 @@
 
 ### 👋 Quick Intro  
 - 🔭 I’m currently working on **Data Analytics projects, Full Stack Web apps, and Shopify stores**  
-- 🌱 I’m currently learning **DATA VISUALIZATION, DATA CLEANING, and Advanced Automation**  
-- 👯 I’m looking to collaborate on **innovative tech projects & open-source contributions**  
-- 🤔 I’m looking for help with **scaling e-commerce & AI-powered solutions**  
-- 💬 Ask me about **Python, JavaScript, SQL, Shopify, and Web Development**  
+- 🌱 I’m currently learning **Data Visualization, Data Cleaning** and **Advanced Automation**  
+- 👯 I’m looking to collaborate on **Innovative Tech Projects** & **Open-Source Contributions**  
+- 🤔 I’m looking for help with **scaling e-commerce** & **AI-powered solutions**  
+- 💬 Ask me about **Python, JavaScript, SQL, Shopify** and **Web Development**  
 - 📫 How to reach me: **[sajidrindofficial@gmail.com](mailto:sajidrindofficial@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I Can Debug Code Faster Than My Coffee Cools Down😊**  
@@ -29,7 +29,7 @@
 💡 Passionate about **Data Analytics**, **Web Development**, and building **scalable software**  
 ⚡ Skilled in **Python**, **JavaScript**, **SQL**, **React**, **Node.js**, and **MongoDB**  
 🎨 Loves designing modern **UI/UX** and **E-commerce solutions**  
-🚀 Exploring **AI, Cybersecurity, and Automation** to push tech limits  
+🚀 Exploring **AI, Cybersecurity** and **Automation** to push tech limits  
 🌐 Open to **collaboration on innovative projects**  
 
 ---
