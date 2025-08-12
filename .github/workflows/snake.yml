@@ -5,27 +5,32 @@ on:
     - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate Hacker Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sajidexpertise
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           snake_color: "#00FF00"         # Neon green
           background_color: "#000000"    # Black background
           grid_color: "#00FF00"          # Matrix grid
           dot_color: "#39FF14"           # Bright green dots
-          snake_speed: 8                 # Faster movement
-          snake_size: 8                  # Bigger snake segments
+          snake_speed: 15                # Faster movement
+          snake_size: 20                 # Bigger snake segments
 
       - name: Prepare output branch
         run: |
@@ -37,15 +42,58 @@ jobs:
             git reset --hard
           fi
 
-      - name: Move generated snake file
+      - name: Move generated snake files to repo root
         run: |
           mkdir -p .
-          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          # copy both light and dark versions if created
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          fi
+          if [ -f "dist/github-contribution-grid-snake-dark.svg" ]; then
+            cp "dist/github-contribution-grid-snake-dark.svg" github-contribution-grid-snake-dark.svg
+          fi
 
-      - name: Commit and push to output branch
+      - name: Resize SVG(s) to desired width
+        env:
+          DESIRED_WIDTH: 1200   # ← set the width you want (px)
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          import math, sys, os
+          def resize(svg_path, width_px):
+            if not os.path.exists(svg_path):
+              print(f"skip (not found): {svg_path}")
+              return
+            print("Resizing:", svg_path, "->", width_px, "px")
+            # Register default namespace handling for pretty output
+            ET.register_namespace('', "http://www.w3.org/2000/svg")
+            tree = ET.parse(svg_path)
+            root = tree.getroot()
+            # viewBox parsing
+            vb = root.get('viewBox') or root.get('{http://www.w3.org/2000/svg}viewBox')
+            if vb:
+              parts = list(map(float, vb.strip().split()))
+              vb_w, vb_h = parts[2], parts[3]
+              scale = float(width_px) / vb_w if vb_w != 0 else 1.0
+              new_h = int(round(vb_h * scale))
+              root.set('width', str(int(width_px)))
+              root.set('height', str(new_h))
+              print(f"set width={width_px}, height={new_h} (from viewBox {vb_w}x{vb_h})")
+            else:
+              # no viewBox — just set width attribute (height left unchanged)
+              root.set('width', str(int(width_px)))
+              print("no viewBox found; set width only")
+            tree.write(svg_path, encoding='utf-8', xml_declaration=True)
+          target_files = ["github-contribution-grid-snake.svg", "github-contribution-grid-snake-dark.svg"]
+          w = int(os.environ.get('DESIRED_WIDTH', '1200'))
+          for f in target_files:
+            resize(f, w)
+          PY
+
+      - name: Commit and push snake animation
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-contribution-grid-snake.svg
-          git commit -m "Generate Hacker Snake" || echo "No changes to commit"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg || true
+          git commit -m "Generate Hacker Snake (resized) [skip ci]" || echo "No changes to commit"
           git push --force origin output
