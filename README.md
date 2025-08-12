@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sajidexpertise/sajidexpertise/blob/main/Header%20Banner.png)
 <!-- HEADER -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#00FF00;">Sajid Ali</span></h1>
 <h3 align="center">💻 Data Analyst | Full Stack Web & Software Developer ⚡</h3>
