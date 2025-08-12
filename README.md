@@ -15,13 +15,13 @@
 
 ### 👋 Quick Intro  
 - 🔭 I’m currently working on **Data Analytics projects, Full Stack Web apps, and Shopify stores**  
-- 🌱 I’m currently learning **AI, Cybersecurity, and Advanced Automation**  
+- 🌱 I’m currently learning **DATA VISUALIZATION, DATA CLEANING, and Advanced Automation**  
 - 👯 I’m looking to collaborate on **innovative tech projects & open-source contributions**  
 - 🤔 I’m looking for help with **scaling e-commerce & AI-powered solutions**  
 - 💬 Ask me about **Python, JavaScript, SQL, Shopify, and Web Development**  
-- 📫 How to reach me: **[sajidexpertise@gmail.com](mailto:sajidexpertise@gmail.com)**  
+- 📫 How to reach me: **[sajidrindofficial@gmail.com](mailto:sajidrindofficial@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *I can debug code faster than my coffee cools down!*  
+- ⚡ Fun fact: **I Can Debug Code Faster Than My Coffee Cools Down😊**  
 
 ---
 
