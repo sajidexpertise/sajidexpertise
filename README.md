@@ -95,7 +95,7 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
@@ -112,7 +112,7 @@
   <tr>
     <td align="center" style="padding: 10px; vertical-align: top;">
       <h3 style="color: #39FF14; font-weight: 1000; text-shadow: 0 0 1px #39FF14, 0 0 10px #39FF14; border-bottom: 5px solid #39FF14; padding-bottom: 3px; margin-bottom: 10px; font-family: 'Courier New', Courier, monospace;">
-        🔝 Top Contributed Repo
+        🔝 Contributed Repo
       </h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=dark&combine_all_yearly_contributions=true" width="320" alt="Top Contributed Repo" style="border-radius: 8px;" />
     </td>
