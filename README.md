@@ -106,30 +106,30 @@
 
 ---
 
+
 ### 🔝 Top Contributed Repo
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px; vertical-align: top;">
-      <h3 style="color: #39FF14; font-weight: 1000; text-shadow: 0 0 1px #39FF14, 0 0 10px #39FF14; border-bottom: 5px solid #39FF14; padding-bottom: 3px; margin-bottom: 10px; font-family: 'Courier New', Courier, monospace;">
-        🔝 Contributed Repo
-      </h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=dark&combine_all_yearly_contributions=true" width="320" alt="Top Contributed Repo" style="border-radius: 8px;" />
-    </td>
-    <td align="center" style="padding: 10px; vertical-align: top;">
-      <h3 style="color: #39FF14; font-weight: 1000; text-shadow: 0 0 1px #39FF14, 0 0 10px #39FF14; border-bottom: 5px solid #39FF14; padding-bottom: 3px; margin-bottom: 10px; font-family: 'Courier New', Courier, monospace;">
-        📈 Profile Details
-      </h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=dark" width="320" alt="Profile Details" style="border-radius: 8px;" />
-    </td>
-    <td align="center" style="padding: 10px; vertical-align: top;">
-      <h3 style="color: #39FF14; font-weight: 1000; text-shadow: 0 0 1px #39FF14, 0 0 10px #39FF14; border-bottom: 5px solid #39FF14; padding-bottom: 3px; margin-bottom: 10px; font-family: 'Courier New', Courier, monospace;">
-        📅 Commit Calendar
-      </h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidexpertise&theme=react-dark&area=true&hide_border=true" width="340" height="90" alt="Commit Calendar" style="border-radius: 2px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+    height="150" 
+    style="border: 2px solid #39FF14; border-radius: 8px; margin: 10px;" 
+    alt="Top Contributed Repo" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=dark" 
+    height="150" 
+    style="border: 2px solid #39FF14; border-radius: 8px; margin: 10px;" 
+    alt="Profile Details" 
+  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sajidexpertise&theme=react-dark&area=true&hide_border=true" 
+    height="150" 
+    style="border: 2px solid #39FF14; border-radius: 8px; margin: 10px;" 
+    alt="Commit Calendar" 
+  />
+</p>
+
 
 
 ---
