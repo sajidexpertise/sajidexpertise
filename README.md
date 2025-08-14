@@ -110,6 +110,7 @@
   />
 </p>
 
+
 ---
 
 ### 🕹️ Snake Game
@@ -137,19 +138,16 @@
 <p align="center">
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-    height="100" 
+    height="120" 
     style="border: 8px solid #39FF14; border-radius: 8px; margin: 10px;" 
     alt="Top Contributed Repo" 
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=dark" 
-    height="100" 
-    style="border: 8px solid #39FF14; border-radius: 8px; margin: 10px;" 
+    height="120" 
+    style="border: 8px solid #39FF14; border-radius: 8px; margin:10px;" 
     alt="Profile Details" 
-
-  />
 </p>
-
 
 
 ---
