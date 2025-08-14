@@ -116,7 +116,15 @@
 
 ---
 
-![Logo](https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg)
+<h2 align="center">📄 My CV</h1>
+<p align="center">
+  <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" 
+       alt="My CV" 
+       width="840" />
+</p>
+
+
+---
 
 ### 🏆 GitHub Trophies
 <div align="center">
@@ -127,14 +135,29 @@
 
 ### 🎓 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="70" /></a>
-  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="70" /></a>
-   <a href="https://www.credly.com/badges/db065b8a-5331-4e58-ba65-4a33adeb4f46/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" height="70" /></a>
-  <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="70" /></a>
-  <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="70" /></a>
-  <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="70" /></a>
-  <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="70" /></a>
-  <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/580x580/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/7f92871d-6846-4f72-b248-2281fae3e07c/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" height="70" /></a>
+   <a href="https://www.credly.com/badges/db065b8a-5331-4e58-ba65-4a33adeb4f46/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="70" /></a>
+  <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="70" /></a>
+  <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="70" /></a>
+</p>
+
+
+### 🎓 Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/7f92871d-6846-4f72-b248-2281fae3e07c/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/db065b8a-5331-4e58-ba65-4a33adeb4f46/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="120" /></a>
+  <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="120" /></a>
+  <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="120" /></a>
 </p>
 
 ---
@@ -181,23 +204,6 @@
 </picture>
 
 ---
-
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-    height="120" 
-    style="border: 8px solid #39FF14; border-radius: 8px; margin: 10px;" 
-    alt="Top Contributed Repo" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=dark" 
-    height="120" 
-    style="border: 8px solid #39FF14; border-radius: 8px; margin:10px;" 
-    alt="Profile Details" 
-</p>
 
 ### 🔝 Top Contributed Repo
 
