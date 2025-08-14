@@ -196,13 +196,13 @@
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=default&combine_all_yearly_contributions=true" 
     height="130" 
-    style="border: 10px solid #000000; border-radius: 10px; margin: 16px;" 
+    style="border: 10px solid #000000; border-radius: 10px; margin: 10px;" 
     alt="Top Contributed Repo" 
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=default" 
     height="130" 
-    style="border: 10px solid #000000; border-radius: 10px; margin: 16px;" 
+    style="border: 10px solid #000000; border-radius: 10px; margin: 10px;" 
     alt="Profile Details" 
   />
 </p>
