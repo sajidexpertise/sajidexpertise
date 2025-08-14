@@ -77,7 +77,7 @@
 
 ---
 
-<img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" alt="CV" width="600" height="800">
+<img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" alt="CV" width="450" height="600">
 
 ### 🏆 GitHub Trophies
 <div align="center">
