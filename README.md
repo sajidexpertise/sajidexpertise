@@ -120,14 +120,14 @@
 <p align="center">
   <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" 
        alt="My CV" 
-       width="840" />
+       width="800" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="130" alt="trophy graph"  />
 </div>
 
 ---
@@ -152,20 +152,20 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidexpertise&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-    height="130" 
-    style="border: 4px solid black; border-radius: 4px; margin: 6px;" 
+    height="120" 
+    style="border: 10px solid black; border-radius: 10px; margin: 16px;" 
     alt="Top Languages" 
     />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sajidexpertise&theme=default&hide_border=false&include_all_commits=true&count_private=false" 
-    height="130" 
-    style="border: 4px solid black; border-radius: 4px; margin: 6px;" 
+    height="120" 
+    style="border: 10px solid black; border-radius: 10px; margin: 16px;" 
     alt="GitHub Stats" 
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=sajidexpertise&theme=default&hide_border=false" 
-    height="130" 
-    style="border: 4px solid black; border-radius: 4px; margin: 6px;" 
+    height="120" 
+    style="border: 10px solid black; border-radius: 10px; margin: 16px;" 
     alt="GitHub Streak" 
 </p>
 
@@ -195,14 +195,14 @@
 <p align="center">
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=sajidexpertise&limit=5&theme=default&combine_all_yearly_contributions=true" 
-    height="120" 
-    style="border: 8px solid #000000; border-radius: 8px; margin: 10px;" 
+    height="130" 
+    style="border: 10px solid #000000; border-radius: 10px; margin: 16px;" 
     alt="Top Contributed Repo" 
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidexpertise&theme=default" 
-    height="120" 
-    style="border: 8px solid #000000; border-radius: 8px; margin: 10px;" 
+    height="130" 
+    style="border: 10px solid #000000; border-radius: 10px; margin: 16px;" 
     alt="Profile Details" 
   />
 </p>
