@@ -116,18 +116,9 @@
 
 ---
 
-<h2 align="center">📄 My CV</h2>
-<p align="center">
-  <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" 
-       alt="My CV" 
-       width="800" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="130" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
 </div>
 
 ---
@@ -143,6 +134,15 @@
   <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="90" /></a>
   <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="90" /></a>
   <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="90" /></a>
+</p>
+
+---
+
+<h2 align="center">📄 My CV</h2>
+<p align="center">
+  <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Job%20Ready%20White%20CV_page-0001.jpg" 
+       alt="My CV" 
+       width="800" />
 </p>
 
 ---
