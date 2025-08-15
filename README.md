@@ -47,23 +47,23 @@
   <img width="12" />
 
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
+  <img width="8" />
 
   <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" />
 </div>
 
 
@@ -111,7 +111,7 @@
 ### 🛠 Skills
 <p align="center">
   <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd> 
-  <kbd>Shopify</kbd> <kbd>WordPress</kbd> <kbd>Docker</kbd> <kbd>Postman</kbd> <kbd>Power BI</kbd> <kbd>Excel</kbd> <kbd>Data Visualization</kbd> <kbd>Git & GitHub</kbd>
+  <kbd>Shopify</kbd> <kbd>WordPress</kbd> <kbd>Docker</kbd> <kbd>Postman</kbd> <kbd>Power BI</kbd> <kbd>Excel</kbd> <kbd>Git & GitHub</kbd>
 </p>
 
 ---
