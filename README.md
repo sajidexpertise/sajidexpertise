@@ -11,40 +11,40 @@
 
 <div align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo" />
+  <img width="8" />
 
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+  <img width="8" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <img width="8" />
 
   <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
