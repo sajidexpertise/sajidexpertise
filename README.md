@@ -141,7 +141,7 @@
 
 <h2 align="center">📄 My CV</h2>
 <p align="center">
-  <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Data%20Analyst%20White%20CV.jpg" 
+  <img src="https://github.com/sajidexpertise/sajidexpertise/blob/main/Sajid%20CV.jpg" 
        alt="My CV" 
        width="800" />
 </p>
