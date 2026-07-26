@@ -1,42 +1,125 @@
-name: Generate Snake Animation
+name: Generate Snake Animation (Hacker Style)
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate Snake (Rainbow)
+      - name: Generate Hacker Snake
         uses: Platane/snk@v3
         with:
           github_user_name: sajidexpertise
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Ensure dist exists
+      - name: Verify generated files
         run: |
           if [ ! -f dist/github-contribution-grid-snake.svg ]; then
-            echo "Error: Snake SVG was not generated!"
+            echo "Error: Light snake SVG was not generated."
             exit 1
           fi
 
-      - name: Push Snake to Output Branch
+          if [ ! -f dist/github-contribution-grid-snake-dark.svg ]; then
+            echo "Error: Dark snake SVG was not generated."
+            exit 1
+          fi
+
+      - name: Prepare output branch
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git fetch origin
-          # Create output branch if it doesn't exist
-          git checkout output || git checkout --orphan output
-          git reset --hard
-          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
-          git add github-contribution-grid-snake.svg
-          git commit -m "Generate Rainbow Snake" || echo "No changes to commit"
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout -B output origin/output
+          else
+            git checkout --orphan output
+            git reset --hard
+          fi
+
+      - name: Copy generated snake files
+        run: |
+          cp dist/github-contribution-grid-snake.svg \
+            github-contribution-grid-snake.svg
+
+          cp dist/github-contribution-grid-snake-dark.svg \
+            github-contribution-grid-snake-dark.svg
+
+      - name: Resize snake SVG files
+        env:
+          DESIRED_WIDTH: 1200
+        run: |
+          python3 - <<'PY'
+          import os
+          import xml.etree.ElementTree as ET
+
+          def resize_svg(svg_path, width_px):
+              if not os.path.exists(svg_path):
+                  print(f"File not found: {svg_path}")
+                  return
+
+              ET.register_namespace("", "http://www.w3.org/2000/svg")
+
+              tree = ET.parse(svg_path)
+              root = tree.getroot()
+              view_box = root.get("viewBox")
+
+              root.set("width", str(width_px))
+
+              if view_box:
+                  values = list(map(float, view_box.split()))
+                  original_width = values[2]
+                  original_height = values[3]
+
+                  if original_width:
+                      new_height = round(
+                          original_height * width_px / original_width
+                      )
+                      root.set("height", str(new_height))
+
+              tree.write(
+                  svg_path,
+                  encoding="utf-8",
+                  xml_declaration=True,
+              )
+
+          width = int(os.environ.get("DESIRED_WIDTH", "1200"))
+
+          resize_svg(
+              "github-contribution-grid-snake.svg",
+              width,
+          )
+
+          resize_svg(
+              "github-contribution-grid-snake-dark.svg",
+              width,
+          )
+          PY
+
+      - name: Commit and push snake animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            github-contribution-grid-snake.svg \
+            github-contribution-grid-snake-dark.svg
+
+          git commit \
+            -m "Generate Hacker Snake animation [skip ci]" \
+            || echo "No changes to commit"
+
           git push --force origin output
