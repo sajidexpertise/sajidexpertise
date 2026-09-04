@@ -1,10 +1,14 @@
 ![logo](https://github.com/sajidexpertise/sajidexpertise/blob/main/Header%20Banner.png)
 <!-- HEADER -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#00FF00;">Sajid Ali</span></h1>
-<h3 align="center">💻 Data Analyst | Full Stack Web & Software Developer ⚡</h3>
+<h1 align="center">👋 Hi, I'm Sajid Ali</h1>
+<h3 align="center">📊 Data Analyst | Business Analyst | Power BI & MIS Professional</h3>
+<p align="center">Transforming raw data into clear insights and informed business decisions</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Web+%26+Software+Developer;Full+Stack+Dev+%7C+React+%7C+Node.js+%7C+MongoDB;Python+%7C+SQL+%7C+C%2B%2B;Digital+Marketer+%7C+E-commerce+Specialist;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%7C+Visualization+%7C+Dashboards;MIS+Reporting+%7C+Business+Intelligence+%7C+IT+Support;Open+to+Jobs+%7C+Internships+%7C+Collaboration"
+    alt="Sajid Ali Professional Skills"
+  />
 </p>
 
 ---
