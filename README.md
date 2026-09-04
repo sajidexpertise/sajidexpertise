@@ -75,37 +75,40 @@
 
 ---
 
-### 👋 Quick Intro  
+### 👋 Quick Introduction
 
-- 🔭 I’m currently working on **Data Analytics projects, Full Stack Web apps, and Shopify stores**
-    
-- 🌱 I’m currently learning **Data Visualization, Data Cleaning** and **Advanced Automation**
-  
-- 👯 I’m looking to collaborate on **Innovative Tech Projects** & **Open-Source Contributions**
-  
-- 🤔 I’m looking for help with **scaling e-commerce** & **AI-powered solutions**
-  
-- 💬 Ask me about **Python, JavaScript, SQL, Shopify** and **Web Development**
-  
-- 📫 How to reach me: **[sajidrindofficial@gmail.com](mailto:sajidrindofficial@gmail.com)**
-  
-- 😄 Pronouns: **He/Him**
-  
-- ⚡ Fun fact: **I Can Debug Code Faster Than My Coffee Cools Down😊**  
+* 🔭 I’m currently working on **Data Analytics, Excel dashboards and portfolio projects**
+
+* 🌱 I’m currently developing my skills in **SQL, Power BI, Python and Data Visualization**
+
+* 📊 My areas of interest include **Data Analysis, Business Analysis, MIS Reporting and Business Intelligence**
+
+* 🤝 I’m open to collaborating on **data-driven projects and beginner-friendly open-source contributions**
+
+* 💬 Ask me about **Excel, Google Sheets, data cleaning, reporting, dashboards and basic SQL**
+
+* 💼 I’m seeking **entry-level jobs, internships and remote opportunities in Data Analytics, Power BI, MIS and IT Support**
+
+* 🌐 Portfolio: **(https://sajidexpertise.vercel.app)**
+
+* 📫 Contact: **sajidrindofficial@gmail.com)**
+
+* ⚡ Current goal: **Transforming raw data into clear, useful and actionable insights**
+
 
 ---
 
 ### 👨‍💻 About Me
 
-💡 Passionate about **Data Analytics**, **Web Development**, and building **scalable software**  
+📊 BS Information Technology graduate focused on **Data Analytics, Business Intelligence and MIS Reporting**
 
-⚡ Skilled in **Python**, **JavaScript**, **SQL**, **React**, **Node.js**, and **MongoDB**  
+🛠️ Experienced with **Excel, Google Sheets, data cleaning, reporting and dashboard development**
 
-🎨 Loves designing modern **UI/UX** and **E-commerce solutions**  
+🌱 Developing practical proficiency in **SQL, Power BI, Python, Tableau and cloud fundamentals**
 
-🚀 Exploring **AI, Cybersecurity** and **Automation** to push tech limits  
+💼 Interested in **Data Analyst, Business Analyst, MIS and IT Support opportunities**
 
-🌐 Open to **collaboration on innovative projects**  
+🚀 Committed to transforming raw data into **clear insights and informed business decisions**
 
 ---
 
@@ -127,15 +130,15 @@
 
 ### 🎓 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/7f92871d-6846-4f72-b248-2281fae3e07c/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" height="90" /></a>
-   <a href="https://www.credly.com/badges/db065b8a-5331-4e58-ba65-4a33adeb4f46/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="90" /></a>
-  <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="90" /></a>
-  <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="90" /></a>
+  <a href="https://www.credly.com/badges/0f92e4d2-a771-44dc-bb1c-84faa2a1258f/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/ec9c50a6-1253-4eec-a503-765dda21b6d5/image.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/40bb56f9-6161-4822-a33f-ebe53981ac1a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/f27f6292-ff4c-4809-9390-df028e93fc31/image.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/7f92871d-6846-4f72-b248-2281fae3e07c/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" height="80" /></a>
+   <a href="https://www.credly.com/badges/db065b8a-5331-4e58-ba65-4a33adeb4f46/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/4e249491-23e2-4e45-b7fc-bd09007a681f/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/9da91d2f-91b8-4c4d-91bd-effe06d61721/blob" height="80" /></a>
+  <a href="https://www.credly.com/badges/f39e1cc4-b9c7-4c63-89c2-ea826a7058af/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/25de65cd-27a6-4d00-a7d9-d85c719d110a/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/24735700-d67a-4847-b08c-6da461e58e65/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9c920bf-d696-4554-bfdb-828c973abd4d/image.png" height="80" /></a>
+  <a href="https://www.credly.com/badges/0329db85-0b36-4359-b524-b588f1314500/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" height="80" /></a>
 </p>
 
 ---
